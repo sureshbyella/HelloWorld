@@ -7,7 +7,7 @@ public class hello {
 		// TODO Auto-generated method stub
 		
 		        // Prints "Hello, World" to the terminal window.
-		        System.out.println("Hello, World Sureshs");
+		        System.out.println("Hello, World Sureshss");
 		    
 
 		
